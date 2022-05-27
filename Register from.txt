@@ -1,0 +1,4 @@
+Create Register form
+
+Add Email input validation
+Add Password input validation
